@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'NeverAgain' target in the 'NeverAgain' project
+//
+
+#ifdef __OBJC__
+  #import <Cocoa/Cocoa.h>
+#endif
